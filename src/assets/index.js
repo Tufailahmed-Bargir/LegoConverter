@@ -8,6 +8,15 @@ import menu from "./menu.svg";
 import close from "./close.svg";
 
 import css from "./tech/css.png";
+
+// projects import
+import portfolio from "./tech/portfolio.png";
+import mmecGPT from "./tech/mmecGPT.png";
+import aiPedia from "./tech/aipedia.png";
+import frontend from "./tech/frontend.png";
+import back from "./tech/backend.png";
+import fullstack from "./tech/fullstack.png";
+
 import docker from "./tech/docker.png";
 import figma from "./tech/figma.png";
 import git from "./tech/git.png";
@@ -37,6 +46,13 @@ export {
   mobile,
   web,
   github,
+  // projects export
+  aiPedia,
+  mmecGPT,
+  portfolio,
+  frontend,
+  fullstack,
+  back,
   menu,
   close,
   css,
