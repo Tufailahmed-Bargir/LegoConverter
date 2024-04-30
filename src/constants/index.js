@@ -53,7 +53,7 @@ export const navLinks = [
     id: "resume",
     title: "Resume",
     isExternal: true,
-    link: "https://docs.google.com/document/d/1YjweXntqLFPWt37KbIt53wiggjpCGm-zfIiPnLoUhgM/edit",
+    link: "https://drive.google.com/file/d/1Y0v6pECnidlb-nD8zT8uerdRF3H1XlxQ/view?usp=sharing",
   },
 ];
 
