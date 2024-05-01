@@ -32,6 +32,12 @@ import {
   amazon,
   aip,
   gym,
+
+  postgres,
+  sql,
+  mongod,
+  restful,
+  next,
 } from "../assets";
 
 export const navLinks = [
@@ -131,6 +137,26 @@ const technologies = [
   {
     name: "Docker",
     icon: docker,
+  },
+  {
+    name: "postgres",
+    icon: postgres,
+  },
+  {
+    name: "Sql",
+    icon: sql,
+  },
+  {
+    name: "Mongodb",
+    icon: mongod,
+  },
+  {
+    name: "RESTFull API",
+    icon: restful,
+  },
+  {
+    name: "Next JS",
+    icon: next,
   },
 ];
 

@@ -9,6 +9,7 @@ import close from "./close.svg";
 
 import css from "./tech/css.png";
 
+
 // projects import
 import portfolio from "./tech/portfolio.png";
 import aip from "./tech/aipedia.gif";
@@ -44,7 +45,19 @@ import rnsb from "./rnsb.gif";
 import rnsh from "./rnsh.gif";
 import rnec from "./rnec.gif";
 
+// import skills images
+import postgres from "./tech/postgres.jpg";
+import sql from "./tech/sql.jpg";
+import mongod from "./tech/mongodb.png";
+import restful from "./tech/restful.jpg";
+import next from "./tech/next.png";
 export {
+  postgres,
+  sql,
+  mongod,
+  restful,
+  next,
+  
   gym,
   aip,
   logo,
