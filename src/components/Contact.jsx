@@ -32,9 +32,9 @@ const Contact = () => {
         "template_gsnhsog",
         {
           from_name: form.name,
-          to_name: "Ronak",
+          to_name: "Tufail",
           from_email: form.email,
-          to_email: "ronakkothari301@gmail.com",
+          to_email: "bargirtufailahmed@gmail.com",
           message: form.message,
         },
         "uguF-eDxbSv_0uBhG"

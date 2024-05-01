@@ -39,13 +39,19 @@ export const navLinks = [
     id: "about",
     title: "About",
   },
-  {
-    id: "work",
-    title: "Work",
-  },
+  // {
+  //   id: "works",
+  //   title: "Works",
+  // },
   {
     id: "contact",
     title: "Contact",
+  },
+  {
+    id: "linkedIn",
+    title: "LinkedIn",
+    isExternal: true,
+    link: "https://www.linkedin.com/in/tufail-ahmed-bargir-848844230/",
   },
 
   {
