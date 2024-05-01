@@ -23,10 +23,15 @@ import {
   portfolio,
   mmecGPT,
   aiPedia,
+  aipedia2,
   threejs,
   frontend,
   // backend,
   fullstack,
+  tindog,
+  amazon,
+  aip,
+  gym,
 } from "../assets";
 
 export const navLinks = [
@@ -264,7 +269,7 @@ const projects = [
     ],
     image: portfolio,
     source_code_link:
-      "https://github.com/ronak301/react-native-expanding-collection",
+      "https://github.com/Tufailahmed-Bargir/portfolio",
   },
   {
     name: "aipedia",
@@ -284,7 +289,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: aiPedia,
+    image: aip,
     source_code_link:
       "https://github.com/Tufailahmed-Bargir/aipedia",
   },
@@ -308,13 +313,13 @@ const projects = [
       //   color: "pink-text-gradient",
       // },
     ],
-    image: aiPedia,
+    image: amazon,
     source_code_link:
-      "https://github.com/Tufailahmed-Bargir/aipedia",
+      "https://github.com/Tufailahmed-Bargir/amazon_clone",
   },
   // 5th project
   {
-    name: "Pets Meeting app",
+    name: "Nearby Pets Exploring app",
     description:
       "aiPedia an ai tool store/directory for the students to leverage the students productivity.",
     tags: [
@@ -323,9 +328,9 @@ const projects = [
         color: "blue-text-gradient",
       },
     ],
-    image: aiPedia,
+    image: tindog,
     source_code_link:
-      "https://github.com/Tufailahmed-Bargir/aipedia",
+      "https://github.com/Tufailahmed-Bargir/tindog",
   },
 
   // 6th
@@ -339,9 +344,9 @@ const projects = [
         color: "blue-text-gradient",
       },
     ],
-    image: aiPedia,
+    image: gym,
     source_code_link:
-      "https://github.com/Tufailahmed-Bargir/aipedia",
+      "https://github.com/Tufailahmed-Bargir/gym_website",
   },
   
 ];

@@ -11,11 +11,16 @@ import css from "./tech/css.png";
 
 // projects import
 import portfolio from "./tech/portfolio.png";
+import aip from "./tech/aipedia.gif";
+import amazon from "./tech/amazonn.gif";
+import aipedia2 from "./tech/aipedia2.png";
+import tindog from "./tech/tindog.png";
 import mmecGPT from "./tech/mmecGPT.png";
 import aiPedia from "./tech/aipedia.png";
 import frontend from "./tech/frontend.png";
 import back from "./tech/backend.png";
 import fullstack from "./tech/fullstack.png";
+import gym from "./tech/gym2.gif";
 
 import docker from "./tech/docker.png";
 import figma from "./tech/figma.png";
@@ -40,12 +45,17 @@ import rnsh from "./rnsh.gif";
 import rnec from "./rnec.gif";
 
 export {
+  gym,
+  aip,
   logo,
   backend,
   creator,
   mobile,
   web,
   github,
+  tindog,
+  amazon,
+  aipedia2,
   // projects export
   aiPedia,
   mmecGPT,
