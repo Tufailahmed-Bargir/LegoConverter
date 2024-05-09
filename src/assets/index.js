@@ -12,6 +12,8 @@ import css from "./tech/css.png";
 
 // projects import
 import portfolio from "./tech/portfolio.png";
+import pdfGPT from "./tech/pdfGPT.png";
+import lego from "./tech/lego.png";
 import aip from "./tech/aipedia.gif";
 import amazon from "./tech/amazonn.gif";
 import aipedia2 from "./tech/aipedia2.png";
@@ -57,9 +59,10 @@ export {
   mongod,
   restful,
   next,
-  
+  pdfGPT,
   gym,
   aip,
+  lego,
   logo,
   backend,
   creator,

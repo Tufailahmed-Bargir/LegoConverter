@@ -22,6 +22,8 @@ import {
   rnec,
   portfolio,
   mmecGPT,
+  pdfGPT,
+  lego,
   aiPedia,
   aipedia2,
   threejs,
@@ -380,6 +382,52 @@ const projects = [
     source_code_link:
       "https://github.com/Tufailahmed-Bargir/gym_website",
   },
+  // 7th project
+  {
+  name: "pdfGPT",
+  description:
+    "pdfGPT is the ai tool which allows users to chat with pdf and also allows users to ask the questions  .",
+  tags: [
+    {
+      name: "express",
+      color: "blue-text-gradient",
+    },
+    {
+      name: "Ejs",
+      color: "blue-text-gradient",
+    },
+  
+    {
+      name: "Gemini API",
+      color: "pink-text-gradient",
+    },
+  ],
+  image: pdfGPT,
+  source_code_link: "https://github.com/Tufailahmed-Bargir/pdfGPT",
+},
+// 8th project
+{
+  name: "Lego",
+  description:
+    "Lego is the Legacy code converter which takes the legacy code and converts it into the modern codes",
+  tags: [
+    {
+      name: "express",
+      color: "blue-text-gradient",
+    },
+    {
+      name: "Ejs",
+      color: "blue-text-gradient",
+    },
+  
+    {
+      name: "Gemini API",
+      color: "pink-text-gradient",
+    },
+  ],
+  image: lego,
+  source_code_link: "https://github.com/Tufailahmed-Bargir/lego",
+}
   
 ];
 
