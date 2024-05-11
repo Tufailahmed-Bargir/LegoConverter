@@ -21,13 +21,13 @@ function App() {
         <div className="relative z-0 bg-dark-100">
           <div className="bg-hero-pattern bg-cover bg-no-repeat bg-center">
             <Navbar />
-            <Hero />
+            {/* <Hero /> */}
           </div>
-          <About />
+          {/* <About /> */}
           {/* <Experience /> */}
-          <Tech />
+          {/* <Tech /> */}
           {/* <Blogs /> */}
-          <Works />
+          {/* <Works /> */}
           {/* <Feedbacks /> */}
           <div className="relative z-0">
             <Contact />

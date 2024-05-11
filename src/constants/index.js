@@ -47,33 +47,33 @@ export const navLinks = [
     id: "about",
     title: "About",
   },
+  {
+    id: "features",
+    title: "Features",
+  },
   // {
-  //   id: "works",
-  //   title: "Works",
+  //   id: "contact",
+  //   title: "Contact",
   // },
-  {
-    id: "contact",
-    title: "Contact",
-  },
-  {
-    id: "linkedIn",
-    title: "LinkedIn",
-    isExternal: true,
-    link: "https://www.linkedin.com/in/tufail-ahmed-bargir-848844230/",
-  },
+  // {
+  //   id: "linkedIn",
+  //   title: "LinkedIn",
+  //   isExternal: true,
+  //   link: "https://www.linkedin.com/in/tufail-ahmed-bargir-848844230/",
+  // },
 
   {
     id: "github",
     title: "Github",
     isExternal: true,
-    link: "https://github.com/Tufailahmed-Bargir",
+    link: "https://github.com/Tufailahmed-Bargir/lego",
   },
-  {
-    id: "resume",
-    title: "Resume",
-    isExternal: true,
-    link: "https://drive.google.com/file/d/1Y0v6pECnidlb-nD8zT8uerdRF3H1XlxQ/view?usp=sharing",
-  },
+  // {
+  //   id: "resume",
+  //   title: "Resume",
+  //   isExternal: true,
+  //   link: "https://drive.google.com/file/d/1Y0v6pECnidlb-nD8zT8uerdRF3H1XlxQ/view?usp=sharing",
+  // },
 ];
 
 const services = [
