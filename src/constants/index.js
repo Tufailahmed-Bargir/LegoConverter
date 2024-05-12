@@ -45,7 +45,7 @@ import {
 export const navLinks = [
   {
     id: "about",
-    title: "About",
+    title: "Overview",
   },
   {
     id: "features",
@@ -78,22 +78,24 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Full Stack web developer",
+    title: "Gemini ai integration ",
     icon: fullstack,
   },
   {
-    title: "Frontend Developer",
+    title: "Accurate and optimized solution",
     icon: frontend,
   },
   {
-    title: "Backend Developer",
+    title: "Fast and Efficient",
     icon: back,
   },
   {
-    title: "UI/UX Designer",
+    title: "User frindly Interface",
     icon: creator,
   },
 ];
+
+
 
 const technologies = [
   {

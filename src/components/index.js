@@ -13,8 +13,10 @@ import Works from "./Works";
 import Feedbacks from "./Feedbacks";
 import Contact from "./Contact";
 import Blogs from "./Blogs";
+import Features from "./Features";
 
 export {
+  Features,
   Hero,
   Navbar,
   About,

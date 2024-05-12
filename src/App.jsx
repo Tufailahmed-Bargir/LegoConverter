@@ -5,6 +5,7 @@ import {
   Contact,
   // Experience,
   Feedbacks,
+  Features,
   Hero,
   Navbar,
   Tech,
@@ -31,7 +32,10 @@ function App() {
           {/* <Feedbacks /> */}
           <div className="relative z-0">
             <Contact />
+             <About />
+             <Features />
             <StarsCanvas />
+
           </div>
         </div>
       </BrowserRouter>

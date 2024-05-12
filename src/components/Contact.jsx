@@ -67,12 +67,14 @@ const Contact = () => {
           className="mt-12 flex flex-col gap-8">
            
         
-          <button
+          {/* <button
             type="submit"
             className="bg-purple bg-purple-500 py-3 px-8 outline-none w-fit font-bold shadow-md shadow-primary rounded-xl text-white-100">
-            {/* {loading ? "Sending..." : "Convert"} */}
+          
             Convert
-          </button>
+          </button> */}
+          <a  href="http://localhost:3000/" className="bg-purple bg-purple-500 py-3 px-8 outline-none w-fit font-bold shadow-md shadow-primary rounded-xl text-white-100"
+          >Convert the code</a>
         </form>
       </motion.div>
       <motion.div
